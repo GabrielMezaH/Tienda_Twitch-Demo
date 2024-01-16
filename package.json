@@ -17,6 +17,7 @@
   "author": "Gabriel Meza",
   "license": "MIT",
   "dependencies": {
+    "mongoose": "^8.0.4",
     "sxpress": "^1.0.3"
   },
   "devDependencies": {
